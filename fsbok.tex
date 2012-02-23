@@ -5,6 +5,8 @@
 \usepackage{fullpage}
 %\usepackage{fancyhdr}
 
+\usepackage{subfiles}
+
 \usepackage{longtable}
 
 \usepackage{ucs}
@@ -221,7 +223,6 @@
 \begin{document}
 
 \pagestyle{empty}
-%ugly ugly UGLY UGLY UGLY bugly!!
 \begin{figure}[p!tb]
     \begin{center}
         \includegraphics[width=\textwidth]{FSBok2010-forside.png}
@@ -233,8 +234,7 @@
 
 \cleardoublepage
 
-\include{forord}
-
+\subfile{forord}
 
 \pagestyle{plain}
 
@@ -242,7 +242,7 @@
 
 \part{Historikk}
 
-\include{historikk}
+\subfile{historikk}
 
 
 \chapter*{Organisasjonskart}
@@ -251,7 +251,7 @@
 
 \part{Studentersamfundet i Trondhjems Lover og Statutter}
 
-\include{lover}
+\subfile{lover}
 
 %reset counters
 \setcounter{lovkapittel}{1}
@@ -260,119 +260,119 @@
 
 \part{Vedvarende vedtak ved Studentersamfundet i Trondhjem}
 
-\include{vedtak}
+\subfile{vedtak}
 
 \part{Statutter}
 
-\include{fonds}
+\subfile{fonds}
 
 \part{Instrukser}
 
 \chapter*{Generelle Instrukser}
 
-\include{instrukser}
+\subfile{instrukser}
 
-\include{instrukser/generell}
+\subfile{instrukser/generell}
 
-\include{romreservasjon}
+\subfile{romreservasjon}
 
-\include{k35}
+\subfile{k35}
 
-\include{arealdisponering}
+\subfile{arealdisponering}
 
-\include{instrukser/presse}
+\subfile{instrukser/presse}
 
 %\part{Gjenginstrukser}
 
 \chapter*{Gjenginstrukser}
 
-\include{instrukser/dg}
+\subfile{instrukser/dg}
 
-\include{instrukser/fg}
+\subfile{instrukser/fg}
 
-\include{instrukser/fk}
+\subfile{instrukser/fk}
 
-\include{instrukser/itk}
+\subfile{instrukser/itk}
 
-\include{instrukser/klst}
+\subfile{instrukser/klst}
 
-\include{instrukser/ksg}
+\subfile{instrukser/ksg}
 
-\include{instrukser/ku}
+\subfile{instrukser/ku}
 
-\include{instrukser/lk}
+\subfile{instrukser/lk}
 
-\include{instrukser/lim}
+\subfile{instrukser/mg}
 
-\include{instrukser/regi}
+\subfile{instrukser/regi}
 
-\include{instrukser/rr}
+\subfile{instrukser/rr}
 
-\include{instrukser/sit}
+\subfile{instrukser/sit}
 
-\include{instrukser/orkesteret}
+\subfile{instrukser/orkesteret}
 
-\include{instrukser/stv}
+\subfile{instrukser/stv}
 
-\include{instrukser/strindens}
+\subfile{instrukser/strindens}
 
-\include{instrukser/ud}
+\subfile{instrukser/ud}
 
-\include{instrukser/vk}
+\subfile{instrukser/vk}
 
 
 \chapter*{Instrukser for Finansstyrets undergrupper og organ}
 
 
-\include{instrukser/arkivet}
+\subfile{instrukser/arkivet}
 
-\include{instrukser/gs}
+\subfile{instrukser/gs}
 
-\include{instrukser/gsk}
+\subfile{instrukser/gsk}
 
-\include{instrukser/profil}
+\subfile{instrukser/profil}
 
-\include{instrukser/sbk}
+\subfile{instrukser/sbk}
 
-\include{instrukser/sikring}
+\subfile{instrukser/sikring}
 
-\include{instrukser/vg}
+\subfile{instrukser/vg}
 
 \part{Avtaler}
 
-\include{instrukser/prinsippavtaleisfit}
+\subfile{instrukser/prinsippavtaleisfit}
 
-%\include{instrukser/prinsippavtaletirc}
+%\subfile{instrukser/prinsippavtaletirc}
 
-\include{driftsavtalemediastud}
+\subfile{driftsavtalemediastud}
 
-%\include{instrukser/mediastudprinsippavtale}
+%\subfile{instrukser/mediastudprinsippavtale}
 
-\include{instrukser/husorden09}
+\subfile{instrukser/husorden09}
 
-\include{instrukser/husorden11}
+\subfile{instrukser/husorden11}
 
-\include{instrukser/dodensdal} 
+\subfile{instrukser/dodensdal} 
 
 \part{Forretningsdriften}
 
 
-\include{forretningsdriften}
+\subfile{forretningsdriften}
 
 
 \part{Finansstyret}
 
-\include{fs}
+\subfile{fs}
 
 
 
 \part{Strategisk Arbeid}
 
-\include{strategisk}
+\subfile{strategisk}
 
 \part{Livsvarige- og Æresmedlemmer}
 
-\include{livsvarige}
+\subfile{livsvarige}
 
 \end{document}
 

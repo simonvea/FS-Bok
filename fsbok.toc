@@ -1,0 +1,77 @@
+\select@language {norsk}
+\contentsline {part}{Historikk}{9}{chapter*.1}
+\contentsline {part}{Studentersamfundet i Trondhjems Lover og Statutter}{21}{chapter*.3}
+\contentsline {section}{}{23}{chapter*.4}
+\contentsline {section}{Styrende Organer}{25}{Item.11}
+\contentsline {section}{Studentersamfundets m\IeC {\o }ter}{30}{Item.24}
+\contentsline {section}{Valg og avstemninger}{32}{Item.29}
+\contentsline {section}{Indre liv}{33}{Item.29}
+\contentsline {section}{Samfundsretten}{34}{Item.29}
+\contentsline {section}{Alminnelige bestemmelser}{35}{Item.29}
+\contentsline {part}{Vedvarende vedtak ved Studentersamfundet i Trondhjem}{37}{Item.34}
+\contentsline {part}{Statutter}{43}{chapter*.5}
+\contentsline {chapter}{Fond}{45}{chapter*.6}
+\contentsline {section}{Klubbstyrets Fond}{45}{section*.7}
+\contentsline {section}{Statutter for Kampfond}{46}{Item.36}
+\contentsline {section}{Student Georg Sverdrups fond til utdeling av gratis medlemskort}{47}{Item.36}
+\contentsline {section}{Statutter for Sceneteknisk Fond}{48}{Item.36}
+\contentsline {section}{Statutter for Arrang\IeC {\o }rfond}{49}{Item.36}
+\contentsline {part}{Instrukser}{51}{Item.36}
+\contentsline {chapter}{Generelle Instrukser}{53}{chapter*.8}
+\contentsline {section}{Brannvern ved Studentersamfundet i Trondhjem}{53}{section*.9}
+\contentsline {section}{Instruks for Funksjon\IeC {\ae }rer}{58}{Item.39}
+\contentsline {section}{Husorden}{59}{Item.43}
+\contentsline {section}{Hybelinstruks}{61}{Item.58}
+\contentsline {section}{Instruks for n\IeC {\o }kler og n\IeC {\o }kkelkort}{62}{Item.68}
+\contentsline {section}{Instruks for kontroll\IeC {\o }rer}{64}{Item.92}
+\contentsline {section}{Instruks for lenkevakter}{65}{Item.108}
+\contentsline {section}{Generell gjenginstruks}{66}{Item.116}
+\contentsline {section}{Retningslinjer for reservering av offentlige arealer ved Studentersamfundet i Trondhjem}{68}{Item.143}
+\contentsline {section}{Instruks for Klostergata 35}{73}{Item.254}
+\contentsline {section}{Instruks for arealdisponering p\IeC {\r a} Samfundet}{78}{Item.275}
+\contentsline {section}{Presseinstruks}{79}{Item.275}
+\contentsline {chapter}{Gjenginstrukser}{81}{chapter*.10}
+\contentsline {section}{Instruks for Diversegjengen}{81}{section*.11}
+\contentsline {section}{Instruks for Fotogjengen}{82}{Item.289}
+\contentsline {section}{Instruks for Forsterkerkomit\'een}{83}{Item.300}
+\contentsline {section}{Instruks for Informasjonsteknologikomit\'een}{85}{Item.332}
+\contentsline {section}{Instruks for Klubbstyret}{86}{Item.347}
+\contentsline {section}{Instruks for Kaf\'e- og Serveringsgjengen}{87}{Item.359}
+\contentsline {section}{Instruks for Kulturutvalget}{88}{Item.379}
+\contentsline {section}{Instruks for L\IeC {\o }rdagskomit\'een}{89}{Item.389}
+\contentsline {section}{Instruks for Markedsf\IeC {\o }ringsgjengen}{90}{Item.400}
+\contentsline {section}{Instruks for Regi}{92}{Item.421}
+\contentsline {section}{Instruks for Radio Revolt}{94}{Item.451}
+\contentsline {section}{Instruks for Studentersamfundets Interne Teater}{96}{Item.471}
+\contentsline {section}{Instruks for Studentersamfundets Orkester}{98}{Item.493}
+\contentsline {section}{Instruks for Student-TV}{103}{Item.531}
+\contentsline {section}{Instruks for Strindens Promenade Orchester}{105}{Item.547}
+\contentsline {section}{Instruks for Under Dusken}{106}{Item.555}
+\contentsline {section}{Instruks for Videokomiteen}{108}{Item.570}
+\contentsline {chapter}{Instrukser for Finansstyrets undergrupper og organer}{109}{chapter*.12}
+\contentsline {section}{Instruks for Arkivet}{109}{section*.13}
+\contentsline {section}{Instruks for Gjengsekretariatet}{111}{Item.602}
+\contentsline {section}{Instruks for Gjengsjefkollegiet}{113}{Item.619}
+\contentsline {section}{Instruks for Profilgruppa}{115}{Item.654}
+\contentsline {section}{Instruks for Studentersamfundets byggekomit\IeC {\'e}}{117}{Item.674}
+\contentsline {section}{Instruks for Sikringskomiteen}{119}{Item.700}
+\contentsline {section}{Instruks for Vedlikeholdsgruppa}{122}{Item.740}
+\contentsline {part}{Avtaler}{125}{Item.771}
+\contentsline {section}{Prinsippavtale Mellom Styret for stiftelsen den Internasjonale Studentfestivalen i Trondheim og Studentersamfundet i Trondhjem (Samfundet) ved Finansstyret}{127}{section*.14}
+\contentsline {section}{Aksjon\IeC {\ae }ravtale mellom Studentersamfundet i Trondhjem (``Samfundet'') og Studentsamskipnaden i Trondheim (``SiT'') sammen benevnt som Partene for eierskap til selskapet Mediastud AS (``Mediastud'')}{130}{section*.14}
+\contentsline {section}{Husorden for UKA-09}{132}{Item.775}
+\contentsline {section}{Husorden for UKA-11}{134}{Item.775}
+\contentsline {section}{Avtale om bruk av Gl\IeC {\o }shaugen Idrettspark}{137}{Item.775}
+\contentsline {part}{Forretningsdriften}{141}{Item.775}
+\contentsline {section}{Generelt arbeidsreglement for ansatte}{143}{section*.15}
+\contentsline {section}{Stillingsinstruks for Daglig Leder}{146}{Item.779}
+\contentsline {section}{Stillingsinstruks for vaktmester}{148}{Item.789}
+\contentsline {section}{Instruks for d\IeC {\o }rvakter}{150}{Item.809}
+\contentsline {section}{Instruks for garderobevakter}{152}{Item.839}
+\contentsline {part}{Finansstyret}{155}{Item.854}
+\contentsline {chapter}{Vedvarende vedtak i Finansstyret}{157}{chapter*.16}
+\contentsline {part}{Strategisk Arbeid}{161}{chapter*.16}
+\contentsline {chapter}{Medlemskortprosjektet}{163}{chapter*.17}
+\contentsline {chapter}{Nybygg p\IeC {\r a} Fengselstomta}{165}{chapter*.18}
+\contentsline {part}{Livsvarige- og \IeC {\AE }resmedlemmer}{171}{chapter*.18}
+\contentsline {chapter}{Innbudte Medlemmer}{173}{chapter*.19}
